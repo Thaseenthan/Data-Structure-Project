@@ -1,0 +1,10 @@
+﻿  Boomers_PRJ.cpp
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\consultant.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\LinkedList.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\consultant.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\patient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\patient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\patient.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\Boomers_PRJ.cpp(72,1): warning C4102: 'start': unreferenced label
+C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\Boomers_PRJ\LinkedList.h(250): warning C4715: 'single_linked_list::re_search_val': not all control paths return a value
+  Boomers_PRJ.vcxproj -> C:\Users\sathu\OneDrive\Desktop\C++\Boomers_PRJ\x64\Debug\Boomers_PRJ.exe
